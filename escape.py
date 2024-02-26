@@ -12,7 +12,7 @@ g = float(input("Ingrese la constante g: "))
 
 
 # El Radio lo multiplico por 1000, ya que 1Km es 1000 Metro
-r = 6371 * 1000
+r = r * 1000
 
 # La constante fija es 9.8
 
